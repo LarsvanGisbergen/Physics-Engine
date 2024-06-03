@@ -1,0 +1,1 @@
+-make particles leave a path (trail) based on a dissipation factor
