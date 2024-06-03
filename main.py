@@ -5,7 +5,7 @@ def main():
     height = 800
 
     window = PygameWindow(width, height) 
-    framerate = 30 
+    framerate = 20 
     window.run(framerate)
 
 if __name__ == "__main__":

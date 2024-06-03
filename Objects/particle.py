@@ -1,7 +1,7 @@
 import pygame
 
 class Particle:
-    def __init__(self, x, y, mass=1000, radius=15, color=(255, 0, 0)):
+    def __init__(self, x, y, mass=100, radius=10, color=(255, 0, 0)):
         self.x = x
         self.y = y
         self.radius = radius
